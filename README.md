@@ -22,6 +22,6 @@ Discord     - https://discord.gg/ZKxuYZM
 -----------------------
 Telegram    - https://t.me/joinchat/AAAAAEkwGp19ZxRWeT2pdA
 -----------------------
-Facebook    - https://www.facebook.com/Project.RAY.PhotonCoin
+Facebook - https://www.facebook.com/Project.RAY.PhotonCoin
 
 
