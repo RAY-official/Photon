@@ -19,17 +19,17 @@ Contacts
 ">Bitcointalk
 </a>
 
------------------------
+=======================
 <a href="https://www.facebook.com/Project.RAY.PhotonCoin">Facebook</a>
 
------------------------
+=======================
 <a href="https://twitter.com/CoinRAY">Twitter</a>
 
------------------------
+=======================
 <a href="https://t.me/joinchat/AAAAAEkwGp19ZxRWeT2pdA">Telegram</a> 
 
------------------------
+=======================
 <a href="https://discord.gg/ZKxuYZM">Discord</a>
 
------------------------
+=======================
 
