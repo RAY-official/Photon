@@ -16,7 +16,10 @@ Photon Cоin создан для проекта RAY, Photon это частиц�
 Contacts
 =======================
 
-Bitcointalk - https://bitcointalk.org/index.php?topic=3633214.0
+<a href="https://bitcointalk.org/index.php?topic=3633214.0
+">Bitcointalk
+</a>
+
 -----------------------
 <a href="https://t.me/joinchat/AAAAAEkwGp19ZxRWeT2pdA">Telegram</a>
 <a href="https://discord.gg/ZKxuYZM">Discord</a>
