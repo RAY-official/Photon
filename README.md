@@ -18,10 +18,6 @@ Contacts
 
 Bitcointalk - https://bitcointalk.org/index.php?topic=3633214.0
 -----------------------
-Discord     - https://discord.gg/ZKxuYZM
------------------------
-Telegram    - https://t.me/joinchat/AAAAAEkwGp19ZxRWeT2pdA
------------------------
-Facebook - https://www.facebook.com/Project.RAY.PhotonCoin
+[url=https://discord.gg/ZKxuYZM]Discord[/url],[url=https://t.me/joinchat/AAAAAEkwGp19ZxRWeT2pdA]Telegram[/url], [url=https://www.facebook.com/Project.RAY.PhotonCoin]Facebook[/url]
 
 
