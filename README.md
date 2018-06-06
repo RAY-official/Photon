@@ -13,15 +13,23 @@ Photon Cоin создан для проекта RAY, Photon это частиц�
 ------------------------
 光子硬币为项目RAY创建，光子是没有这一点，就不能存在射线，射线项目将为人们节省时间，他们以利花，而不是花费在搜索粒子。 我们花了太多的时间在寻找的东西，但该项目具有长射线分析，并提出了一个解决方案如何解决它。 我们将创建时间的和谐，那么你将不再需要担心缺乏资金或缺乏的时候，每个人都可以找到正在寻找的东西（所以它不是），我们也采取残疾人等护理 跟随我们，看看你自己的眼睛一切，还是在发展，也许有帮助。 顺祝商祺RAY项目
 
-Contacts
+Contacts 
 =======================
-
 <a href="https://bitcointalk.org/index.php?topic=3633214.0
 ">Bitcointalk
 </a>
 
 -----------------------
-<a href="https://t.me/joinchat/AAAAAEkwGp19ZxRWeT2pdA">Telegram</a>
+<a href="https://www.facebook.com/Project.RAY.PhotonCoin">Facebook</a>
+
+-----------------------
+<a href="https://twitter.com/CoinRAY">Twitter</a>
+
+-----------------------
+<a href="https://t.me/joinchat/AAAAAEkwGp19ZxRWeT2pdA">Telegram</a> 
+
+-----------------------
 <a href="https://discord.gg/ZKxuYZM">Discord</a>
 
+-----------------------
 
