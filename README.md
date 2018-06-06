@@ -19,5 +19,6 @@ Contacts
 Bitcointalk - https://bitcointalk.org/index.php?topic=3633214.0
 -----------------------
 <a href="https://t.me/joinchat/AAAAAEkwGp19ZxRWeT2pdA">Telegram</a>
+<a href="https://discord.gg/ZKxuYZM">Discord</a>
 
 
