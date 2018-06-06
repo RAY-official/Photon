@@ -20,6 +20,9 @@ Contacts
 </a>
 =======================
 
+<a href="https://www.reddit.com/user/Ray-Project">Reddit</a>
+=======================
+
 <a href="https://www.facebook.com/Project.RAY.PhotonCoin">Facebook</a>
 =======================
 
