@@ -32,3 +32,5 @@ Contacts
 <a href="https://discord.gg/ZKxuYZM">Discord</a>
 =======================
 
+<a href="https://www.youtube.com/channel/UCJECkb3zkaHPgADN7edUx9A?view_as=subscriber">Youtube</a>
+=======================
