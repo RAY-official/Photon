@@ -18,7 +18,6 @@ Contacts
 <a href="https://bitcointalk.org/index.php?topic=3633214.0
 ">Bitcointalk
 </a>
-
 =======================
 
 <a href="https://www.facebook.com/Project.RAY.PhotonCoin">Facebook</a>
